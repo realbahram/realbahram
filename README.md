@@ -9,15 +9,15 @@ Today, I’m focused on AWS cloud solutions, Infrastructure as Code (IaC), and s
 ## What I’m Working On:
 I’m currently building hands-on projects to showcase my skills and share my knowledge. Here are a few highlights:
 
-**3-Tier Infrastructure on AWS with Terraform**: Designed and deployed a scalable, secure cloud architecture using Terraform.
+**3-Tier Infrastructure on AWS with Terraform**: [Designed and deployed a scalable, secure cloud architecture using Terraform]((https://github.com/realbahram/rentzone_infrastructre_ecs)).
 
-**Dynamic Web Application on AWS**: Automated cloud resource provisioning with Terraform, Docker, and ECS.
+**Dynamic Web Application on AWS**: [Automated cloud resource provisioning with Terraform, Docker, and ECS](https://github.com/realbahram/rentzone_infrastructre_ecs).
 
 **Product Sales Data Analysis**: Created interactive dashboards with Power BI to visualize trends and insights.
 
 I’m also passionate about AI and large language models, having worked on research projects analyzing AI-generated responses using Python and SQL.
 
-# What I Bring to the Table:
+## What I Bring to the Table:
 Cloud Expertise: AWS (EC2, S3, Lambda, DynamoDB), Docker, Kubernetes, Terraform.
 
 **Programming**: Python, Java, JavaScript, C++.
@@ -28,18 +28,18 @@ Cloud Expertise: AWS (EC2, S3, Lambda, DynamoDB), Docker, Kubernetes, Terraform.
 
 **Certifications**: [AWS Certified Developer Associate](https://www.credly.com/badges/c6efea2c-029a-4a72-86b8-70d4e17e7add/public_url), [AWS Solutions Architect Associate](https://www.credly.com/badges/2a5a49f7-891f-4788-a052-7e74ad22d388/public_url), [HashiCorp Terraform Associate](https://www.credly.com/badges/c3f8aba6-245f-46c2-9c81-436060dfa46a/public_url).
 
-# Why I Do What I Do:
+## Why I Do What I Do:
 I believe in the power of technology to solve real-world problems. Whether it’s optimizing systems, analyzing data, or building scalable applications, I’m driven by the challenge of creating efficient and impactful solutions.
 
-# Let’s Connect!
+## Let’s Connect!
 If you’re interested in collaborating, discussing cloud architecture, or just geeking out about tech, feel free to reach out. Let’s build something amazing together!
 
-# 📫 Connect with me:
+## 📫 Connect with me:
 
 
 **Email**: ebrahimibahram618@gmail.com
 
-# I Also Enjoy Life:
+## I Also Enjoy Life:
 In my spare time, you can find me:
 🎲 Hosting epic board game nights with Twilight Imperium, Game of Thrones, and Splendor—because strategy and alliances are my kind of fun!
 🏐 Spiking it out on the volleyball court—whether it’s a casual game or a competitive match.
