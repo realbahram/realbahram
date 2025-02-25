@@ -26,7 +26,7 @@ Cloud Expertise: AWS (EC2, S3, Lambda, DynamoDB), Docker, Kubernetes, Terraform.
 
 **DevOps**: CI/CD pipelines, Agile methodologies, Git/GitHub.
 
-**Certifications**: [AWS Certified Developer Associate](https://www.credly.com/badges/c6efea2c-029a-4a72-86b8-70d4e17e7add/public_url), [AWS Solutions Architect Associate](https://www.credly.com/badges/2a5a49f7-891f-4788-a052-7e74ad22d388/public_url), [HashiCorp Terraform Associate](https://www.credly.com/badges/c3f8aba6-245f-46c2-9c81-436060dfa46a/public_url).
+**Certifications**: [AWS Certified Developer Associate](https://www.credly.com/badges/c6efea2c-029a-4a72-86b8-70d4e17e7add/public_url), [AWS Solutions Architect Associate](https://www.credly.com/badges/2a5a49f7-891f-4788-a052-7e74ad22d388/public_url), [HashiCorp Terraform Associate](https://www.credly.com/badges/c3f8aba6-245f-46c2-9c81-436060dfa46a/public_url)https://www.credly.com/badges/c3f8aba6-245f-46c2-9c81-436060dfa46a/public_url.
 
 # Why I Do What I Do:
 I believe in the power of technology to solve real-world problems. Whether it’s optimizing systems, analyzing data, or building scalable applications, I’m driven by the challenge of creating efficient and impactful solutions.
