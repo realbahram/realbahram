@@ -9,24 +9,24 @@ Today, I’m focused on AWS cloud solutions, Infrastructure as Code (IaC), and s
 ## What I’m Working On:
 I’m currently building hands-on projects to showcase my skills and share my knowledge. Here are a few highlights:
 
-** 3-Tier Infrastructure on AWS with Terraform **: Designed and deployed a scalable, secure cloud architecture using Terraform.
+**3-Tier Infrastructure on AWS with Terraform**: Designed and deployed a scalable, secure cloud architecture using Terraform.
 
-** Dynamic Web Application on AWS **: Automated cloud resource provisioning with Terraform, Docker, and ECS.
+**Dynamic Web Application on AWS**: Automated cloud resource provisioning with Terraform, Docker, and ECS.
 
-** Product Sales Data Analysis **: Created interactive dashboards with Power BI to visualize trends and insights.
+**Product Sales Data Analysis**: Created interactive dashboards with Power BI to visualize trends and insights.
 
 I’m also passionate about AI and large language models, having worked on research projects analyzing AI-generated responses using Python and SQL.
 
 # What I Bring to the Table:
 Cloud Expertise: AWS (EC2, S3, Lambda, DynamoDB), Docker, Kubernetes, Terraform.
 
-** Programming **: Python, Java, JavaScript, C++.
+**Programming**: Python, Java, JavaScript, C++.
 
-** Databases **: SQL, PostgreSQL, Oracle.
+**Databases**: SQL, PostgreSQL, Oracle.
 
-** DevOps **: CI/CD pipelines, Agile methodologies, Git/GitHub.
+**DevOps**: CI/CD pipelines, Agile methodologies, Git/GitHub.
 
-** Certifications **: AWS Certified Developer Associate, AWS Solutions Architect Associate, HashiCorp Terraform Associate.
+**Certifications**: AWS Certified Developer Associate, AWS Solutions Architect Associate, HashiCorp Terraform Associate.
 
 # Why I Do What I Do:
 I believe in the power of technology to solve real-world problems. Whether it’s optimizing systems, analyzing data, or building scalable applications, I’m driven by the challenge of creating efficient and impactful solutions.
@@ -36,9 +36,9 @@ If you’re interested in collaborating, discussing cloud architecture, or just 
 
 # 📫 Connect with me:
 
-** LinkedIn **: Your LinkedIn Profile
+**LinkedIn**: Your LinkedIn Profile
 
-** Email **: ebrahimibahram618@gmail.com
+**Email**: ebrahimibahram618@gmail.com
 
 <!--
 **realbahram/realbahram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
