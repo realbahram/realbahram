@@ -9,7 +9,7 @@ Today, I’m focused on AWS cloud solutions, Infrastructure as Code (IaC), and s
 ## What I’m Working On:
 I’m currently building hands-on projects to showcase my skills and share my knowledge. Here are a few highlights:
 
-**3-Tier Infrastructure on AWS with Terraform**: [Designed and deployed a scalable, secure cloud architecture using Terraform]((https://github.com/realbahram/rentzone_infrastructre_ecs)).
+**3-Tier Infrastructure on AWS with Terraform**: [Designed and deployed a scalable, secure cloud architecture using Terraform](https://github.com/realbahram/realbahram-3-tier-Infrastructure-On-AWS-With-Terraform).
 
 **Dynamic Web Application on AWS**: [Automated cloud resource provisioning with Terraform, Docker, and ECS](https://github.com/realbahram/rentzone_infrastructre_ecs).
 
@@ -42,10 +42,15 @@ If you’re interested in collaborating, discussing cloud architecture, or just 
 ## I Also Enjoy Life:
 In my spare time, you can find me:
 🎲 Hosting epic board game nights with Twilight Imperium, Game of Thrones, and Splendor—because strategy and alliances are my kind of fun!
+
 🏐 Spiking it out on the volleyball court—whether it’s a casual game or a competitive match.
+
 🍿 Binge-watching anime and horror movies (because nothing beats a good plot twist or a jump scare!).
+
 ☕ Perfecting my latte art skills as an aspiring barista—because coffee is both an art and a science.
+
 🎨 Exploring late-night art projects, where creativity flows best under the moonlight.
+
 🎧 Jamming to heavy metal and rock—because life needs a good soundtrack.
 
 Life is all about balance, and I love finding joy in both the little things and the big adventures.
